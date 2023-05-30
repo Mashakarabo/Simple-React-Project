@@ -1,0 +1,41 @@
+.Mother-in-law{
+    
+    display: flex;
+    justify-content: space-between;
+    background-color:darkgray;
+    height: 300px;
+}
+
+#aboutpic{
+    width: 400px;
+    position: relative;
+    top: 70px;
+    right: 40px;
+    box-shadow: 5px 6px 5px;
+}
+
+.Paragraph{
+    background-color: bisque;
+    height: 200px;
+    align-items: center;
+}
+
+h5{
+    font-family: monospace;
+    padding: 60px;
+    font-size: x-large;
+}
+h3, h4{
+    font-size: xx-large;
+    margin-left:10px;
+    position: relative;
+    top: 60px;
+    left: 50px;
+    
+    
+}
+
+.Son{
+    left: 20px;
+    
+}

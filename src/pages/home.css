@@ -1,0 +1,51 @@
+.Mother{
+    width: 100%;
+    height: 400px;
+    
+}
+
+p{
+    color: cornflowerblue;
+}
+
+#logo{
+    width: 300px;
+    position: absolute;
+    bottom: -25%;
+    left: 40%;
+}
+
+.Cover-content{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+    font-family:fantasy;
+    background-color: rgba(255, 255, 255, 0.336);;
+    position: relative;
+    top: 110px;
+    height: 200px;
+    
+    
+}
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    border-radius: 3px 4px 3px;
+    border: 10px;
+    background-color: cornflowerblue;
+    font-family: monospace;
+    font-weight: bolder;
+
+}
+
+p{
+    color: black;
+    box-shadow: 3px 3px 3px;
+}
+
+.Layer-One, .Layer-two{
+    position: relative;
+    top: 40px;
+    left: 60px;
+}

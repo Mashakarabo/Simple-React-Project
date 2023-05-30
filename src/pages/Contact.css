@@ -1,0 +1,24 @@
+.Contact-cellphone{
+    width: 150px;
+}
+.Chat-box{
+    width: 150px;
+}
+.email-pic{
+    width: 150px;
+}
+#email-button{
+    background-color: cadetblue;
+}
+#chat-button{
+    background-color: darkcyan;
+}
+
+.Contact-details{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+    height: 300px;
+    position: relative;
+    top: 60px;
+}
